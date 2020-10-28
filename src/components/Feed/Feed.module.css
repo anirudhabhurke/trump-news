@@ -1,0 +1,16 @@
+.grid {
+      display: flex;
+      flex-wrap: wrap;
+}
+
+.card {
+      margin: 10px;
+      width: 18rem;
+      text-align: left;
+      cursor: pointer;
+      box-shadow: 0px 0.8px 1.8px rgba(0, 0, 0, 0.13908558841119492), 0px 0px 2.9px rgba(0, 0, 0, 0.1176878055787034);
+}
+
+.card:hover {
+      box-shadow: 0 1px 3px rgba(0, 0, 0, 0.3);
+}

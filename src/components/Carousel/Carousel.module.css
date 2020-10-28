@@ -1,0 +1,8 @@
+.carouselContainer {
+      margin-top: 10px;
+      margin-bottom: 10px;
+}
+.carouselText {
+      cursor: pointer;
+      background: rgba(85, 85, 92, 0.5);
+}
